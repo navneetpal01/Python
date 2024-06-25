@@ -12,3 +12,11 @@ z = int(z)
 print(x)
 print(y)
 print(z*3)
+
+x = str(x)
+y = str(y)
+z = str(z)
+
+print("X is "+x)
+print("Y is "+y)
+print("Z is "+z)
